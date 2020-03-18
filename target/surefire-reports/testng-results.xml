@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="196570" started-at="2020-03-18T08:16:38Z" finished-at="2020-03-18T08:19:55Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="196570" started-at="2020-03-18T08:16:38Z" finished-at="2020-03-18T08:19:55Z">
+      <class name="main_test_case.Demo_Test_Cases">
+        <test-method status="PASS" signature="launch_browser()[pri:0, instance:main_test_case.Demo_Test_Cases@5c5a1b69]" name="launch_browser" is-config="true" duration-ms="16" started-at="2020-03-18T08:16:38Z" finished-at="2020-03-18T08:16:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch_browser -->
+        <test-method status="PASS" signature="testcases_document_count(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:main_test_case.Demo_Test_Cases@5c5a1b69]" name="testcases_document_count" duration-ms="42864" started-at="2020-03-18T08:16:38Z" data-provider="performance" finished-at="2020-03-18T08:17:21Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Google Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Production]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Home Page]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[vishah]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vishah@123]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://www.shipco.com/]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases_document_count -->
+        <test-method status="PASS" signature="getResult()[pri:0, instance:main_test_case.Demo_Test_Cases@5c5a1b69]" name="getResult" is-config="true" duration-ms="1995" started-at="2020-03-18T08:17:21Z" finished-at="2020-03-18T08:17:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testcases_document_count(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:main_test_case.Demo_Test_Cases@5c5a1b69]" name="testcases_document_count" duration-ms="42583" started-at="2020-03-18T08:17:23Z" data-provider="performance" finished-at="2020-03-18T08:18:06Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Google Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Production]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[LCL Accurate]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[vishah]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vishah@123]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://www.shipco.com/ecommerce/rat/accu/index.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases_document_count -->
+        <test-method status="PASS" signature="getResult()[pri:0, instance:main_test_case.Demo_Test_Cases@5c5a1b69]" name="getResult" is-config="true" duration-ms="1689" started-at="2020-03-18T08:18:06Z" finished-at="2020-03-18T08:18:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testcases_document_count(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:main_test_case.Demo_Test_Cases@5c5a1b69]" name="testcases_document_count" duration-ms="43852" started-at="2020-03-18T08:18:08Z" data-provider="performance" finished-at="2020-03-18T08:18:51Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_03]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Google Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Production]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[FCL Rate Search]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[vishah]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vishah@123]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://www.shipco.com/ecommerce/rat/raf/index.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases_document_count -->
+        <test-method status="PASS" signature="getResult()[pri:0, instance:main_test_case.Demo_Test_Cases@5c5a1b69]" name="getResult" is-config="true" duration-ms="1632" started-at="2020-03-18T08:18:51Z" finished-at="2020-03-18T08:18:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="testcases_document_count(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:main_test_case.Demo_Test_Cases@5c5a1b69]" name="testcases_document_count" duration-ms="59908" started-at="2020-03-18T08:18:53Z" data-provider="performance" finished-at="2020-03-18T08:19:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[TC_04]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Google Chrome]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Production]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Air Rate Search]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[vishah]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[Vishah@123]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[https://www.shipco.com/ecommerce/airrates/index.php]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testcases_document_count -->
+        <test-method status="PASS" signature="getResult()[pri:0, instance:main_test_case.Demo_Test_Cases@5c5a1b69]" name="getResult" is-config="true" duration-ms="1846" started-at="2020-03-18T08:19:53Z" finished-at="2020-03-18T08:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getResult -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:main_test_case.Demo_Test_Cases@5c5a1b69]" name="tearDown" is-config="true" duration-ms="0" started-at="2020-03-18T08:19:55Z" finished-at="2020-03-18T08:19:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- main_test_case.Demo_Test_Cases -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
