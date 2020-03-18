@@ -70,6 +70,13 @@
     <version>3.10-FINAL</version>
 </dependency>
 
+    <!-- https://mvnrepository.com/artifact/com.google.appengine/gcloud-maven-plugin -->
+<dependency>
+    <groupId>com.google.appengine</groupId>
+    <artifactId>gcloud-maven-plugin</artifactId>
+    <version>2.0.9.133.v201611104</version>
+</dependency>
+
 <!-- https://mvnrepository.com/artifact/org.apache.poi/poi-ooxml-schemas -->
 <dependency>
     <groupId>org.apache.poi</groupId>
